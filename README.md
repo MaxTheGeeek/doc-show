@@ -69,7 +69,7 @@ External contributions are currently not accepted.
 
 ## 👨‍💻 Author
 
-**Majid Behzadi**  
+**Max Behzadi**  
 - 🌐 Portfolio: www.maxbehzadi.online  
 - 📧 Email: maxbehzadi82@gmail.com  
 
